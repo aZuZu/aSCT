@@ -1,0 +1,14 @@
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\aSCT\aSCT\bin\Debug\aSCT.exe
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\aSCT\aSCT\bin\Debug\aSCT.pdb
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\aSCT\aSCT\obj\Debug\aSCT.csprojResolveAssemblyReference.cache
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\aSCT\aSCT\obj\Debug\aSCT.MainForm.resources
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\aSCT\aSCT\obj\Debug\aSCT.csproj.GenerateResource.Cache
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\aSCT\aSCT\obj\Debug\aSCT.exe
+C:\Users\ZLZ PORTA_KOLNI\Documents\SharpDevelop Projects\aSCT\aSCT\obj\Debug\aSCT.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aSCT\aSCT\bin\Debug\aSCT.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aSCT\aSCT\bin\Debug\aSCT.pdb
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aSCT\aSCT\obj\Debug\aSCT.csprojResolveAssemblyReference.cache
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aSCT\aSCT\obj\Debug\aSCT.MainForm.resources
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aSCT\aSCT\obj\Debug\aSCT.csproj.GenerateResource.Cache
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aSCT\aSCT\obj\Debug\aSCT.exe
+C:\Users\aZuZu\Documents\SharpDevelop Projects\aSCT\aSCT\obj\Debug\aSCT.pdb
